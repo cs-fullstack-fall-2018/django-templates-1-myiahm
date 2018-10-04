@@ -1,3 +1,5 @@
+# KEY: Well Done! No surprise here :-P
+
 # Django Project creation and simple templates
 
 ##Complete the following tasks:
